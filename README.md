@@ -24,7 +24,7 @@ ___
 ___ 
 
 
-### 팀  
+### 팀원  
 * 개발 : [yhaaan](https://github.com/yhaaan)
 * 아트 : [choren0411](https://github.com/choren0411)
 * 기획 : [agapodo](https://github.com/shipjh1201)
