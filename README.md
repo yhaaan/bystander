@@ -1,7 +1,9 @@
 # bystander(방관자)
 ### 플레이
 * [플레이 (WEB)](https://play.unity.com/en/games/5b2c0300-c291-4f9b-bd0d-40d489dab8c8/bystander)
-* 조작
+* [만들래](https://mandlemandle.com/project/bystander/game)
+  * 만들래 10분 게임 공모전 참여작입니다. 많은 관심 부탁드립니다. 
+* 조작 방법
   * 이동&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: [W] [A] [S] [D]
   * 상호작용&nbsp;&nbsp;&nbsp;&nbsp; : [E]
   * 성냥켜기&nbsp;&nbsp;&nbsp;&nbsp; : [R]
