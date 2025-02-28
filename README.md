@@ -1,4 +1,14 @@
 # bystander(방관자)
+### 플레이
+* [플레이 (WEB)](https://play.unity.com/en/games/5b2c0300-c291-4f9b-bd0d-40d489dab8c8/bystander)
+* 조작
+  * 이동&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: [W] [A] [S] [D]
+  * 상호작용&nbsp;&nbsp;&nbsp;&nbsp; : [E]
+  * 성냥켜기&nbsp;&nbsp;&nbsp;&nbsp; : [R]
+  * 선택지 이동 : [W] [S]
+  * 선택지 선택 : [space] [enter] [E]
+ 
+___
 
 ### 소개
 ❖당신은 불빛에서 태어나 과거로 돌아갈 수 없는 세계를 탐험합니다.❖  
